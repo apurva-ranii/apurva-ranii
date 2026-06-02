@@ -1,29 +1,26 @@
 # Hi, I'm Apurva Rani 👋
 
-🎓 B.Tech Student
+🎓 B.Tech CSE (AIML) Student
 
-💻 Passionate about Software Development, Java, Data Structures & Algorithms, and Web Development.
-
----
+💻 Passionate about Software Development, Data Structures & Algorithms, and Web Development.
 
 ## 🚀 About Me
 
-* 🌱 Currently learning Java, DSA, DBMS, and Full-Stack Development
-* 💡 Interested in Problem Solving and Software Engineering
-* 🎯 Goal: To become a skilled Software Engineer and contribute to impactful projects
-* 📚 Regularly practicing coding problems and improving development skills
+* Currently learning Java and strengthening my problem-solving skills
+* Experienced in C++, HTML, CSS, JavaScript, PHP, and MySQL
+* Interested in Software Development and Web Technologies
+* Regularly building projects and practicing DSA
+* Always eager to learn new technologies and improve my development skills
 
----
-
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
 ### Programming Languages
 
-* Java
 * C++
 * Python
+* Java (Currently Learning)
 
-### Web Technologies
+### Web Development
 
 * HTML
 * CSS
@@ -34,51 +31,28 @@
 
 * MySQL
 
-### Tools
+### Tools & Platforms
 
 * Git
 * GitHub
-* VS Code
-* XAMPP
 
----
+## 📌 Featured Projects
 
-## 📂 Featured Projects
+### Resume Builder
 
-### 📄 Resume Builder
+Full-stack Resume Builder developed using HTML, CSS, JavaScript, PHP, and MySQL.
 
-Full-stack Resume Builder developed using HTML, CSS, JavaScript, PHP, and MySQL with user authentication and resume creation functionality.
+### Anime Website
 
-### 🐍 Snake Game
+Anime Hub website built using HTML, CSS, and JavaScript featuring anime series and character information.
 
-Classic Snake Game developed in C++ using Graphics.h featuring multiple levels, score tracking, lifelines, and increasing difficulty.
+### Snake Game (C++)
 
-### 🎌 Anime Hub Website
+Classic Snake Game developed in C++ with Graphics.h, featuring score tracking, levels, and lifelines.
 
-Interactive anime website built using HTML, CSS, and JavaScript showcasing popular anime series and character information.
+## 🎯 Current Focus
 
-### 📇 Contact Management System
-
-Python Tkinter application for managing contacts with add, update, delete, and search functionality.
-
----
-
-## 📈 Currently Working On
-
-* Data Structures & Algorithms in Java
-* LeetCode Problem Solving
-* Java Projects
-* Full-Stack Development
-
----
-
-## 🎯 Career Interests
-
-* Software Development
-* Java Development
-* Web Development
-* Backend Development
-
----
-
-⭐ Always learning, building, and improving.
+* Learning Java
+* Practicing Data Structures & Algorithms
+* Building Full-Stack Web Development Projects
+* Improving Problem-Solving Skills
